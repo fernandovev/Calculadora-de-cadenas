@@ -28,9 +28,23 @@
     "testId": 2
   },
   {
-    "commitId": "HEAD",
+    "commitId": "d826e464a185bf30a111122060fc53134a1e39dd",
     "commitName": "feat: sumar cadena vacia",
     "commitTimestamp": 1779919173481,
     "testId": 2
+  },
+  {
+    "numPassedTests": 2,
+    "failedTests": 0,
+    "numTotalTests": 2,
+    "timestamp": 1779922670158,
+    "success": true,
+    "testId": 3
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: sumar un solo numero",
+    "commitTimestamp": 1779922706183,
+    "testId": 3
   }
 ]
