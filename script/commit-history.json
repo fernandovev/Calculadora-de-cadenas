@@ -19,17 +19,36 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "10147be2e9d4d740a21995628154c0d0ddb9a0df",
     "author": "fernandovev",
     "commit": {
       "date": "2026-05-27T21:23:46.000Z",
       "message": "first commit",
-      "url": "https://github.com/UCB-TallerDeDesarrollo/TDDLabBaseProject/commit/HEAD"
+      "url": "https://github.com/UCB-TallerDeDesarrollo/TDDLabBaseProject/commit/10147be2e9d4d740a21995628154c0d0ddb9a0df"
     },
     "stats": {
       "total": 0,
       "additions": 0,
       "deletions": 0,
+      "date": "2026-05-27"
+    },
+    "coverage": 100,
+    "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "fernandovev",
+    "commit": {
+      "date": "2026-05-27T21:59:32.000Z",
+      "message": "feat: sumar cadena vacia",
+      "url": "https://github.com/fernandovev/Calculadora-de-cadenas/commit/HEAD"
+    },
+    "stats": {
+      "total": 16,
+      "additions": 7,
+      "deletions": 9,
       "date": "2026-05-27"
     },
     "coverage": 100,
