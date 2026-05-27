@@ -1,9 +1,28 @@
 [
   {
-    "sha": "HEAD",
+    "sha": "3a379187b71d36e2630ba083401f6bd224869621",
     "author": "AlessanderMorales",
     "commit": {
       "date": "2026-05-27T21:20:13.000Z",
+      "message": "first commit",
+      "url": "https://github.com/UCB-TallerDeDesarrollo/TDDLabBaseProject/commit/3a379187b71d36e2630ba083401f6bd224869621"
+    },
+    "stats": {
+      "total": 0,
+      "additions": 0,
+      "deletions": 0,
+      "date": "2026-05-27"
+    },
+    "coverage": 100,
+    "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "fernandovev",
+    "commit": {
+      "date": "2026-05-27T21:23:46.000Z",
       "message": "first commit",
       "url": "https://github.com/UCB-TallerDeDesarrollo/TDDLabBaseProject/commit/HEAD"
     },
