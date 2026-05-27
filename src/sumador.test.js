@@ -8,4 +8,8 @@ describe("Calculadora de cadenas", () => {
   it("devuelve el mismo numero cuando recibe un solo numero", () => {
   expect(sumar("2")).toEqual(2);
   });
+
+  it("suma dos numeros separados por coma", () => {
+  expect(sumar("1,2")).toEqual(3);
+  });
 });

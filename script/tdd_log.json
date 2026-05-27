@@ -42,9 +42,15 @@
     "testId": 3
   },
   {
-    "commitId": "HEAD",
+    "commitId": "23f041bb18e43516fbdfed8207ae11a054974d52",
     "commitName": "feat: sumar un solo numero",
     "commitTimestamp": 1779922706183,
     "testId": 3
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: sumar dos numeros separados por coma",
+    "commitTimestamp": 1779922877318,
+    "testId": 4
   }
 ]
