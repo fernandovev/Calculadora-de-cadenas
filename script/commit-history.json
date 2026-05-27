@@ -76,12 +76,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "ede88b662578884508a24bf339ee3bf1d42d4287",
     "author": "fernandovev",
     "commit": {
       "date": "2026-05-27T23:01:16.000Z",
       "message": "feat: sumar dos numeros separados por coma",
-      "url": "https://github.com/fernandovev/Calculadora-de-cadenas/commit/HEAD"
+      "url": "https://github.com/fernandovev/Calculadora-de-cadenas/commit/ede88b662578884508a24bf339ee3bf1d42d4287"
     },
     "stats": {
       "total": 12,
@@ -91,6 +91,25 @@
     },
     "coverage": 100,
     "test_count": 3,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "fernandovev",
+    "commit": {
+      "date": "2026-05-27T23:06:38.000Z",
+      "message": "feat: sumar varios numeros separados por coma",
+      "url": "https://github.com/fernandovev/Calculadora-de-cadenas/commit/HEAD"
+    },
+    "stats": {
+      "total": 15,
+      "additions": 8,
+      "deletions": 7,
+      "date": "2026-05-27"
+    },
+    "coverage": 100,
+    "test_count": 4,
     "failed_tests": 0,
     "conclusion": "success"
   }

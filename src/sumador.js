@@ -3,13 +3,10 @@ function sumar(cadena) {
     return 0;
   }
 
-  const numeros = cadena.split(",");
-
-  if (numeros.length === 1) {
-    return Number(numeros[0]);
-  }
-
-  return Number(numeros[0]) + Number(numeros[1]);
+  return cadena
+    .split(",")
+    .map((numero) => Number(numero))
+    .reduce((suma, numero) => suma + numero, 0);
 }
 
 export default sumar;
