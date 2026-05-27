@@ -4,7 +4,7 @@ function sumar(cadena) {
   }
 
   return cadena
-    .split(",")
+    .split(/[,-]/)
     .map((numero) => Number(numero))
     .reduce((suma, numero) => suma + numero, 0);
 }

@@ -62,9 +62,15 @@
     "testId": 5
   },
   {
-    "commitId": "HEAD",
+    "commitId": "122a4c04196365a344308ef2a9715cc6fdcf6bf2",
     "commitName": "feat: sumar varios numeros separados por coma",
     "commitTimestamp": 1779923198834,
     "testId": 5
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: aceptar guion como separador",
+    "commitTimestamp": 1779923466726,
+    "testId": 6
   }
 ]
