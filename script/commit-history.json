@@ -1,0 +1,21 @@
+[
+  {
+    "sha": "HEAD",
+    "author": "AlessanderMorales",
+    "commit": {
+      "date": "2026-05-27T21:20:13.000Z",
+      "message": "first commit",
+      "url": "https://github.com/UCB-TallerDeDesarrollo/TDDLabBaseProject/commit/HEAD"
+    },
+    "stats": {
+      "total": 0,
+      "additions": 0,
+      "deletions": 0,
+      "date": "2026-05-27"
+    },
+    "coverage": 100,
+    "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  }
+]
