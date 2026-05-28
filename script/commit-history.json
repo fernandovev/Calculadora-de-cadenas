@@ -190,12 +190,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "7206d5fd6fda619bdd2440caedf394631a89c796",
     "author": "fernandovev",
     "commit": {
       "date": "2026-05-28T02:04:20.000Z",
       "message": "feat: aceptar delimitadores largos",
-      "url": "https://github.com/fernandovev/Calculadora-de-cadenas/commit/HEAD"
+      "url": "https://github.com/fernandovev/Calculadora-de-cadenas/commit/7206d5fd6fda619bdd2440caedf394631a89c796"
     },
     "stats": {
       "total": 6,
@@ -205,6 +205,25 @@
     },
     "coverage": 100,
     "test_count": 9,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "fernandovev",
+    "commit": {
+      "date": "2026-05-28T02:05:54.000Z",
+      "message": "feat: aceptar multiples delimitadores",
+      "url": "https://github.com/fernandovev/Calculadora-de-cadenas/commit/HEAD"
+    },
+    "stats": {
+      "total": 61,
+      "additions": 42,
+      "deletions": 19,
+      "date": "2026-05-28"
+    },
+    "coverage": 100,
+    "test_count": 10,
     "failed_tests": 0,
     "conclusion": "success"
   }

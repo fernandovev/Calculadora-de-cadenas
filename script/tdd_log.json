@@ -108,9 +108,23 @@
     "testId": 9
   },
   {
-    "commitId": "HEAD",
+    "commitId": "7206d5fd6fda619bdd2440caedf394631a89c796",
     "commitName": "feat: aceptar delimitadores largos",
     "commitTimestamp": 1779933861628,
     "testId": 10
+  },
+  {
+    "numPassedTests": 10,
+    "failedTests": 0,
+    "numTotalTests": 10,
+    "timestamp": 1779933945182,
+    "success": true,
+    "testId": 11
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: aceptar multiples delimitadores",
+    "commitTimestamp": 1779933954682,
+    "testId": 11
   }
 ]
