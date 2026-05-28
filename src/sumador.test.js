@@ -20,4 +20,13 @@ describe("Calculadora de cadenas", () => {
   it("acepta guion como separador", () => {
   expect(sumar("1-2,3")).toEqual(6);
   });
+
+  it("acepta un delimitador personalizado", () => {
+  expect(sumar("//[;] 6;7;4")).toEqual(17);
+  });
+
+  it("acepta un delimitador personalizado", () => {
+  expect(sumar("//[;] 6;7;4")).toEqual(17);
+  });
+
 });

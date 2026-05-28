@@ -68,9 +68,15 @@
     "testId": 5
   },
   {
-    "commitId": "HEAD",
+    "commitId": "25233697cedadfc3f1abac4960cd73e78cb1f00b",
     "commitName": "feat: aceptar guion como separador",
     "commitTimestamp": 1779923466726,
     "testId": 6
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: aceptar delimitador personalizado",
+    "commitTimestamp": 1779933337977,
+    "testId": 7
   }
 ]

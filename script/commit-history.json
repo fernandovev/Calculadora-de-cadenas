@@ -114,12 +114,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "25233697cedadfc3f1abac4960cd73e78cb1f00b",
     "author": "fernandovev",
     "commit": {
       "date": "2026-05-27T23:11:06.000Z",
       "message": "feat: aceptar guion como separador",
-      "url": "https://github.com/fernandovev/Calculadora-de-cadenas/commit/HEAD"
+      "url": "https://github.com/fernandovev/Calculadora-de-cadenas/commit/25233697cedadfc3f1abac4960cd73e78cb1f00b"
     },
     "stats": {
       "total": 6,
@@ -129,6 +129,25 @@
     },
     "coverage": 100,
     "test_count": 5,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "fernandovev",
+    "commit": {
+      "date": "2026-05-28T01:55:37.000Z",
+      "message": "feat: aceptar delimitador personalizado",
+      "url": "https://github.com/fernandovev/Calculadora-de-cadenas/commit/HEAD"
+    },
+    "stats": {
+      "total": 28,
+      "additions": 26,
+      "deletions": 2,
+      "date": "2026-05-28"
+    },
+    "coverage": 100,
+    "test_count": 7,
     "failed_tests": 0,
     "conclusion": "success"
   }
