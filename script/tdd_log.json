@@ -96,9 +96,15 @@
     "testId": 8
   },
   {
-    "commitId": "HEAD",
+    "commitId": "bb2b4013ea55ba019318aa036d036d0feed81535",
     "commitName": "feat: combinar delimitadores",
     "commitTimestamp": 1779933675171,
     "testId": 8
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: ignorar numeros mayores a mil",
+    "commitTimestamp": 1779933714630,
+    "testId": 9
   }
 ]

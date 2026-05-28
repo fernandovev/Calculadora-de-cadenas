@@ -152,12 +152,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "bb2b4013ea55ba019318aa036d036d0feed81535",
     "author": "fernandovev",
     "commit": {
       "date": "2026-05-28T02:01:14.000Z",
       "message": "feat: combinar delimitadores",
-      "url": "https://github.com/fernandovev/Calculadora-de-cadenas/commit/HEAD"
+      "url": "https://github.com/fernandovev/Calculadora-de-cadenas/commit/bb2b4013ea55ba019318aa036d036d0feed81535"
     },
     "stats": {
       "total": 17,
@@ -167,6 +167,25 @@
     },
     "coverage": 100,
     "test_count": 7,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "fernandovev",
+    "commit": {
+      "date": "2026-05-28T02:01:53.000Z",
+      "message": "feat: ignorar numeros mayores a mil",
+      "url": "https://github.com/fernandovev/Calculadora-de-cadenas/commit/HEAD"
+    },
+    "stats": {
+      "total": 5,
+      "additions": 5,
+      "deletions": 0,
+      "date": "2026-05-28"
+    },
+    "coverage": 100,
+    "test_count": 8,
     "failed_tests": 0,
     "conclusion": "success"
   }

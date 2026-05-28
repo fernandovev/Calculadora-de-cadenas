@@ -28,4 +28,8 @@ describe("Calculadora de cadenas", () => {
   it("combina delimitador personalizado con coma y guion", () => {
   expect(sumar("//[;] 6,3-2;1")).toEqual(12);
   });
+
+  it("ignora numeros mayores a 1000", () => {
+  expect(sumar("2,1001")).toEqual(2);
+  });
 });

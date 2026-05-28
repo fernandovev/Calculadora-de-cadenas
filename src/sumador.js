@@ -21,6 +21,7 @@ function sumar(cadena) {
   return textoNumeros
     .split(separador)
     .map((numero) => Number(numero.trim()))
+    .filter((numero) => numero <= 1000)
     .reduce((suma, numero) => suma + numero, 0);
 }
 
