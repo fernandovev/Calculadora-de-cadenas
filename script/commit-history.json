@@ -171,12 +171,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "c49303f9f832861079c3db0e88e70b76fa8181e9",
     "author": "fernandovev",
     "commit": {
       "date": "2026-05-28T02:01:53.000Z",
       "message": "feat: ignorar numeros mayores a mil",
-      "url": "https://github.com/fernandovev/Calculadora-de-cadenas/commit/HEAD"
+      "url": "https://github.com/fernandovev/Calculadora-de-cadenas/commit/c49303f9f832861079c3db0e88e70b76fa8181e9"
     },
     "stats": {
       "total": 5,
@@ -186,6 +186,25 @@
     },
     "coverage": 100,
     "test_count": 8,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "fernandovev",
+    "commit": {
+      "date": "2026-05-28T02:04:20.000Z",
+      "message": "feat: aceptar delimitadores largos",
+      "url": "https://github.com/fernandovev/Calculadora-de-cadenas/commit/HEAD"
+    },
+    "stats": {
+      "total": 6,
+      "additions": 5,
+      "deletions": 1,
+      "date": "2026-05-28"
+    },
+    "coverage": 100,
+    "test_count": 9,
     "failed_tests": 0,
     "conclusion": "success"
   }

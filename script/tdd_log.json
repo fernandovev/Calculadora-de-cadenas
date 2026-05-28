@@ -102,9 +102,15 @@
     "testId": 8
   },
   {
-    "commitId": "HEAD",
+    "commitId": "c49303f9f832861079c3db0e88e70b76fa8181e9",
     "commitName": "feat: ignorar numeros mayores a mil",
     "commitTimestamp": 1779933714630,
     "testId": 9
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: aceptar delimitadores largos",
+    "commitTimestamp": 1779933861628,
+    "testId": 10
   }
 ]

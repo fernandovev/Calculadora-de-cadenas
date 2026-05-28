@@ -32,4 +32,8 @@ describe("Calculadora de cadenas", () => {
   it("ignora numeros mayores a 1000", () => {
   expect(sumar("2,1001")).toEqual(2);
   });
+
+  it("acepta delimitadores de cualquier longitud", () => {
+  expect(sumar("//[***] 1***2***3")).toEqual(6);
+  });
 });

@@ -7,7 +7,7 @@ function sumar(cadena) {
   const delimitadores = [",", "-"];
 
   if (cadena.startsWith("//")) {
-    const coincidencia = cadena.match(/^\/\/\[(.)\]\s*(.*)$/);
+    const coincidencia = cadena.match(/^\/\/\[([^\]]+)\]\s*(.*)$/);
     const delimitadorPersonalizado = coincidencia[1];
 
     textoNumeros = coincidencia[2];
