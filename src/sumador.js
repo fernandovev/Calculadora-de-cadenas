@@ -4,19 +4,23 @@ function sumar(cadena) {
   }
 
   let textoNumeros = cadena;
-  let separador = /[,-]/;
+  const delimitadores = [",", "-"];
 
   if (cadena.startsWith("//")) {
     const coincidencia = cadena.match(/^\/\/\[(.)\]\s*(.*)$/);
-    const delimitador = coincidencia[1];
+    const delimitadorPersonalizado = coincidencia[1];
 
     textoNumeros = coincidencia[2];
-    separador = new RegExp(escaparRegex(delimitador));
+    delimitadores.push(delimitadorPersonalizado);
   }
+
+  const separador = new RegExp(
+    delimitadores.map((delimitador) => escaparRegex(delimitador)).join("|")
+  );
 
   return textoNumeros
     .split(separador)
-    .map((numero) => Number(numero))
+    .map((numero) => Number(numero.trim()))
     .reduce((suma, numero) => suma + numero, 0);
 }
 

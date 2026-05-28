@@ -25,8 +25,7 @@ describe("Calculadora de cadenas", () => {
   expect(sumar("//[;] 6;7;4")).toEqual(17);
   });
 
-  it("acepta un delimitador personalizado", () => {
-  expect(sumar("//[;] 6;7;4")).toEqual(17);
+  it("combina delimitador personalizado con coma y guion", () => {
+  expect(sumar("//[;] 6,3-2;1")).toEqual(12);
   });
-
 });

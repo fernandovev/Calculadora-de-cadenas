@@ -74,9 +74,31 @@
     "testId": 6
   },
   {
-    "commitId": "HEAD",
+    "commitId": "8fac3385f8a99900fe3627e218c8ddaa830e984e",
     "commitName": "feat: aceptar delimitador personalizado",
     "commitTimestamp": 1779933337977,
     "testId": 7
+  },
+  {
+    "numPassedTests": 8,
+    "failedTests": 0,
+    "numTotalTests": 8,
+    "timestamp": 1779933639444,
+    "success": true,
+    "testId": 8
+  },
+  {
+    "numPassedTests": 7,
+    "failedTests": 0,
+    "numTotalTests": 7,
+    "timestamp": 1779933652622,
+    "success": true,
+    "testId": 8
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: combinar delimitadores",
+    "commitTimestamp": 1779933675171,
+    "testId": 8
   }
 ]
